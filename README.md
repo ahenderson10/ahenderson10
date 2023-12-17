@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alec! <br/> I study <a href="https://github.com/joshmadakor1">Electrical Computer Engineering</a>
+<h1>Hi, I'm Alec! <br/> I study <a href="https://github.com/ahenderson10">Electrical Computer Engineering</a>
 
 <h2>💼 Projects:</h2>
 
