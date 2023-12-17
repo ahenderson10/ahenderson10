@@ -3,7 +3,7 @@
 <h2>💼 Projects:</h2>
 
 - <b>Blip Language Compiler Project</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Blip Language C++ Files]()
 - <b>MATLAB Projects</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>LC3B Computer Architecture Project</b>
