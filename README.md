@@ -5,16 +5,18 @@
 - <b>Blip Language Compiler Project</b>
   - [Blip Language C++ Files]()
 - <b>MATLAB Projects</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [MATLAB Linear Algebra Files]() 
+  - [MATLAB Linear Signals and Systems Files]() 
 - <b>LC3B Computer Architecture Project</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [LC3B with Interrupts]()
+  - [LC3B Overview and Interrupts Technical Document)]()
+  - [LC3B with Interrupts and Virtual Memory]()
+  - [Pipelined LC3B]()
+  - [LC3B Assembler Interrupt]()
+  - [Full Project)]()
 - <b>Embedded Systems Table Tennis Project</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Table Tennis Game Files]()
+  - [Youtube Game Demo]()
 - <b>Python S&P 500 Trading</b>
   - [SPY Trading Python Files](https://github.com/ahenderson10/SPYTrading)
   - [Effect on the Stock Market Due to Federal Funds Rate Changes](https://docs.google.com/document/d/e/2PACX-1vRg10uoEezOCmWhDBZSQmnNVnW5TCRcsrMAio0gR38czyYeSfJdSxIKhA2pRvdrR5lPMkgRH2Rzc62W/pub)
