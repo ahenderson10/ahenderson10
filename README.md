@@ -17,7 +17,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python S&P 500 Trading</b>
   - [SPY Trading Python Project](https://github.com/ahenderson10/SPYTrading)
-  - [Effect on the Stock Market Due to Federal Funds Rate Changes](https://docs.google.com/document/d/1x6Qyw0gZxeXvXdPZkOgbdIal570I-YTsut8IC_E0NPA/edit?usp=sharing)
+  - [Effect on the Stock Market Due to Federal Funds Rate Changes](https://docs.google.com/document/d/e/2PACX-1vRg10uoEezOCmWhDBZSQmnNVnW5TCRcsrMAio0gR38czyYeSfJdSxIKhA2pRvdrR5lPMkgRH2Rzc62W/pub)
 
 <h2>📺 YouTube Videos</h2>
 
