@@ -28,7 +28,7 @@
 
 <h2> Connect with me:</h2>
 
-[linkedin]: (https://www.linkedin.com/in/alec-henderson-5726a4225/)
+[linkedin](https://www.linkedin.com/in/alec-henderson-5726a4225/)
 
 <!--
 **ahenderson10/ahenderson10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
