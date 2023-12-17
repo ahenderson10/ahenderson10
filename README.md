@@ -8,12 +8,8 @@
   - [MATLAB Linear Algebra Files]() 
   - [MATLAB Linear Signals and Systems Files]() 
 - <b>LC3B Computer Architecture Project</b>
-  - [LC3B with Interrupts]()
-  - [LC3B Overview and Interrupts Technical Document)]()
-  - [LC3B with Interrupts and Virtual Memory]()
-  - [Pipelined LC3B]()
-  - [LC3B Assembler Interrupt]()
-  - [Full Project)]()
+  - [Full LC3B Project]()
+  - [LC3B Interrupts Technical Document]()
 - <b>Embedded Systems Table Tennis Project</b>
   - [Table Tennis Game Files]()
   - [Youtube Game Demo]()
